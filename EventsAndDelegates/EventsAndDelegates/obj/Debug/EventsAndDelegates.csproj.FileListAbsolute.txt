@@ -1,0 +1,7 @@
+D:\Mosh\Udemy\C# Advanced Topics Take Your C# Skills to the Next Level\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+D:\Mosh\Udemy\C# Advanced Topics Take Your C# Skills to the Next Level\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+D:\Mosh\Udemy\C# Advanced Topics Take Your C# Skills to the Next Level\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+D:\Mosh\Udemy\C# Advanced Topics Take Your C# Skills to the Next Level\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csprojResolveAssemblyReference.cache
+D:\Mosh\Udemy\C# Advanced Topics Take Your C# Skills to the Next Level\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.CoreCompileInputs.cache
+D:\Mosh\Udemy\C# Advanced Topics Take Your C# Skills to the Next Level\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+D:\Mosh\Udemy\C# Advanced Topics Take Your C# Skills to the Next Level\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
